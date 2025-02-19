@@ -1,0 +1,17 @@
+C:\Users\Baha Mert YILMAZER\Desktop\Periyodik Tablo Proje\Periyodik Tablo 2\Periyodik Tablo 2\bin\Release\net6.0-windows\Periyodik Tablo 2.exe
+C:\Users\Baha Mert YILMAZER\Desktop\Periyodik Tablo Proje\Periyodik Tablo 2\Periyodik Tablo 2\bin\Release\net6.0-windows\Periyodik Tablo 2.deps.json
+C:\Users\Baha Mert YILMAZER\Desktop\Periyodik Tablo Proje\Periyodik Tablo 2\Periyodik Tablo 2\bin\Release\net6.0-windows\Periyodik Tablo 2.runtimeconfig.json
+C:\Users\Baha Mert YILMAZER\Desktop\Periyodik Tablo Proje\Periyodik Tablo 2\Periyodik Tablo 2\bin\Release\net6.0-windows\Periyodik Tablo 2.dll
+C:\Users\Baha Mert YILMAZER\Desktop\Periyodik Tablo Proje\Periyodik Tablo 2\Periyodik Tablo 2\bin\Release\net6.0-windows\Periyodik Tablo 2.pdb
+C:\Users\Baha Mert YILMAZER\Desktop\Periyodik Tablo Proje\Periyodik Tablo 2\Periyodik Tablo 2\obj\Release\net6.0-windows\Periyodik Tablo 2.csproj.AssemblyReference.cache
+C:\Users\Baha Mert YILMAZER\Desktop\Periyodik Tablo Proje\Periyodik Tablo 2\Periyodik Tablo 2\obj\Release\net6.0-windows\Periyodik_Tablo_2.Form1.resources
+C:\Users\Baha Mert YILMAZER\Desktop\Periyodik Tablo Proje\Periyodik Tablo 2\Periyodik Tablo 2\obj\Release\net6.0-windows\Periyodik Tablo 2.csproj.GenerateResource.cache
+C:\Users\Baha Mert YILMAZER\Desktop\Periyodik Tablo Proje\Periyodik Tablo 2\Periyodik Tablo 2\obj\Release\net6.0-windows\Periyodik Tablo 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baha Mert YILMAZER\Desktop\Periyodik Tablo Proje\Periyodik Tablo 2\Periyodik Tablo 2\obj\Release\net6.0-windows\Periyodik Tablo 2.AssemblyInfoInputs.cache
+C:\Users\Baha Mert YILMAZER\Desktop\Periyodik Tablo Proje\Periyodik Tablo 2\Periyodik Tablo 2\obj\Release\net6.0-windows\Periyodik Tablo 2.AssemblyInfo.cs
+C:\Users\Baha Mert YILMAZER\Desktop\Periyodik Tablo Proje\Periyodik Tablo 2\Periyodik Tablo 2\obj\Release\net6.0-windows\Periyodik Tablo 2.csproj.CoreCompileInputs.cache
+C:\Users\Baha Mert YILMAZER\Desktop\Periyodik Tablo Proje\Periyodik Tablo 2\Periyodik Tablo 2\obj\Release\net6.0-windows\Periyodik Tablo 2.dll
+C:\Users\Baha Mert YILMAZER\Desktop\Periyodik Tablo Proje\Periyodik Tablo 2\Periyodik Tablo 2\obj\Release\net6.0-windows\refint\Periyodik Tablo 2.dll
+C:\Users\Baha Mert YILMAZER\Desktop\Periyodik Tablo Proje\Periyodik Tablo 2\Periyodik Tablo 2\obj\Release\net6.0-windows\Periyodik Tablo 2.pdb
+C:\Users\Baha Mert YILMAZER\Desktop\Periyodik Tablo Proje\Periyodik Tablo 2\Periyodik Tablo 2\obj\Release\net6.0-windows\Periyodik Tablo 2.genruntimeconfig.cache
+C:\Users\Baha Mert YILMAZER\Desktop\Periyodik Tablo Proje\Periyodik Tablo 2\Periyodik Tablo 2\obj\Release\net6.0-windows\ref\Periyodik Tablo 2.dll
